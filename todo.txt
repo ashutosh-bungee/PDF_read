@@ -1,0 +1,5 @@
+1.Extract data from PDF (Labour Act.pdf).
+2.convert it into txt file.
+3.maintain heirarchy in txt file (example is given in sample_output.txt), i.e. give proper indentation to show parent child relationship
+4.show extracted output.txt on UI (using any frontend technology)
+5.create a plan for Document management system(DMS) (preferably  using AWS services)-(LLD)
